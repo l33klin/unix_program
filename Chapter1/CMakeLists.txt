@@ -13,7 +13,7 @@ PROJECT(chapter1)
 #add_subdirectory(../include)
 
 #生成应用程序 hello (在windows下会自动生成hello.exe)
-ADD_EXECUTABLE(chapter1 1_ls1.cpp)
+ADD_EXECUTABLE(chapter1 1-2_cp1.cpp)
 
 # 添加链接库
 target_link_libraries(chapter1 Apue)
