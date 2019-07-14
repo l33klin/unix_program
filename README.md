@@ -1,5 +1,5 @@
 # unix_program
-鉴于是练习，代码应用很简单，所以先采用gcc编译
+鉴于是练习，代码逻辑很简单，所以先采用gcc编译
 
 ### APUE 练习代码
 **IDE:** JetBrains CLion 2019.1
