@@ -1,5 +1,5 @@
 BEGIN	{
-	printf("#include \"apue.h\"\n")
+	printf("#include \"../include/apue.h\"\n")
 	printf("#include <errno.h>\n")
 	printf("#include <limits.h>\n")
 	printf("\n")
