@@ -14,12 +14,12 @@
 $ cd include    # 切换到include目录
 $ gcc -o apue.o -c apue.cpp
 ```
-2. 编译自己的代码，这里比如我们想编译`Chapter1/1-1_ls1.cpp`:
+2. 编译测试代码，比如我们想编译`Chapter1/1-1_ls1.cpp`:
 ```bash
 $ cd Chapter1
-$ gcc -o ls1 1-1_ls1.cpp -L ../include/ -l apue.o
+$ gcc -o ls1.o 1-1_ls1.cpp -L ../include/ -l apue.o
 ```
-3. 得到`ls.o`文件，即可运行
+3. 得到`ls1.o`文件，即可运行
 ```bash
 $ ./ls1.o .
 .
