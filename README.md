@@ -6,7 +6,7 @@
 
 **运行机器:** MacBook Pro (Retina, 15-inch, Mid 2015) &&
 
-**编译工具:** cmake
+**编译工具:** gcc
 
 ### 编译&运行方法
 1. 编译apue依赖库:
